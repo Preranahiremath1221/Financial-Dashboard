@@ -109,5 +109,5 @@ financial-dashboard/
 This project is licensed under the MIT License.
 
 ## Screenshot
-![alt text](<Screenshot 2025-09-05 122357.png>)
-![alt text](<Screenshot 2025-09-05 123210.png>)
+![alt text](<Screenshot 2025-09-05 121125.png>)
+![alt text](<Screenshot 2025-09-05 122649.png>)
