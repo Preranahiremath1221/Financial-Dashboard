@@ -111,5 +111,5 @@ This project is licensed under the MIT License.
 
 ## Screenshot
 
-![alt text](<Screenshot 2025-09-04 155857-1.png>)
+![alt text](<Screenshot 2025-09-05 114932.png>)
 ![Dashboard Screenshot](<Screenshot 2025-09-04 201705.png>)
