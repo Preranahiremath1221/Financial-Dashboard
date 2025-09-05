@@ -1,4 +1,3 @@
-=======
 # Financial Dashboard
 
 A comprehensive financial dashboard built with Next.js, featuring real-time data visualization, mobile optimization, and PDF report generation capabilities.
@@ -111,5 +110,5 @@ This project is licensed under the MIT License.
 
 ## Screenshot
 
-![alt text](<Screenshot 2025-09-05 114932.png>)
+![alt text](<Screenshot 2025-09-05 121125.png>)
 ![Dashboard Screenshot](<Screenshot 2025-09-04 201705.png>)
